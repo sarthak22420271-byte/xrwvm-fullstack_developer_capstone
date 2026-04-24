@@ -1,4 +1,4 @@
-# Cars Dealership Web Application
+# fullstack_developer_capstone
 
 ## Repository Name
 cars-dealership-capstone
